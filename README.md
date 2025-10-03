@@ -7,7 +7,7 @@ Project ini merupakan implementasi dari **Flutter Basic Layout Codelab** dengan 
 ## Hasil Akhir
 Berikut adalah hasil akhir dari implementasi:
 
-![Screenshot Hasil Akhir](images/ss1.png)
+![Screenshot Hasil Akhir](assets/images/ss1.png)
 
 ---
 
